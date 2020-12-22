@@ -1,17 +1,17 @@
 [
 	{
 		"sure_id" : "1",
-        "sure_ismi" : "Ayet-el Kûrsi",
-        "sure_arapca" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاو ;َاتِ وَالأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴿٢٥٥",
-        "sure_okunusu" : "Bismillâhi’r-Rahmâni’r-Rahîm. \n Allâhu lâ ilâhe illâ huve’l-hayyu’l-kayyûm. \n Lâ te’huzuhû sinetun ve lâ nevm. \n Lehû mâ fi’s-semâvâti ve mâ fi’l-ardı men zellezî yeşfe’u ‘ındehû illâ bi iznih. \n Ya’lemu mâ beyne eydîhim ve mâ halfehum ve lâ yuhîtûne bi şey’in min ‘ılmihî illâ bimâ şâe vesi’a kursiyyuhu’s-semâvâti ve’larda ve lâ yeûduhû hıfzuhumâ ve huve’l-‘aliyyu’l-‘azîm.",
-        "sure_anlami" : "O'ndan başka ilah olmayan Allah, hay ve kayyumdur (ezel ve ebedidir). \n O'nu uyuklama ve uyku tutmaz. \n Göklerde ve yerlerde olan şeyler O'nundur. \n İzni olmaksızın O'nun yanında şefaat eden yoktur. \n Halkın önünde ve arkasında olanı (istikbal ve maziyi) bilir. \n İnsanlar O'nun ilminden, O'nun isteğinden başkasını ihata edemezler. \n Kürsisi semaları ve yeri içine alır. \n Onların hıfzı O'nu (Cenab-ı Ecelli Ala'yı) yormaz. \n O, pek yüksek ve büyüktür."
+		"sure_ismi" : "Ayet-el Kûrsi",
+		"sure_arapca" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاو ;َاتِ وَالأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴿٢٥٥",
+		"sure_okunusu" : "Bismillâhi’r-Rahmâni’r-Rahîm. \n Allâhu lâ ilâhe illâ huve’l-hayyu’l-kayyûm. \n Lâ te’huzuhû sinetun ve lâ nevm. \n Lehû mâ fi’s-semâvâti ve mâ fi’l-ardı men zellezî yeşfe’u ‘ındehû illâ bi iznih. \n Ya’lemu mâ beyne eydîhim ve mâ halfehum ve lâ yuhîtûne bi şey’in min ‘ılmihî illâ bimâ şâe vesi’a kursiyyuhu’s-semâvâti ve’larda ve lâ yeûduhû hıfzuhumâ ve huve’l-‘aliyyu’l-‘azîm.",
+		"sure_anlami" : "O'ndan başka ilah olmayan Allah, hay ve kayyumdur (ezel ve ebedidir). \n O'nu uyuklama ve uyku tutmaz. \n Göklerde ve yerlerde olan şeyler O'nundur. \n İzni olmaksızın O'nun yanında şefaat eden yoktur. \n Halkın önünde ve arkasında olanı (istikbal ve maziyi) bilir. \n İnsanlar O'nun ilminden, O'nun isteğinden başkasını ihata edemezler. \n Kürsisi semaları ve yeri içine alır. \n Onların hıfzı O'nu (Cenab-ı Ecelli Ala'yı) yormaz. \n O, pek yüksek ve büyüktür."
 	},
 	{
 		"sure_id" : "2",
 		"sure_ismi" : "Fatiha Sûresi",
-        "sure_arapca" : "١﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ ﴿٢﴾ اَلرَّحْمٰنِ الرَّح۪يمِۙ ﴿٣﴾ مَالِكِ يَوْمِ الدّ۪ينِۜ ﴿٤﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُۜ ﴿٥﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَۙ ﴿٦﴾ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ ﴿٧",
-        "sure_okunusu" : "1- “Bismillâhi’r-Rahmâni’r-Rahîm. \n 2- Elhamdulillâhi Rabbi’l-âlemîn. \n 3- Er-Rahmâni’r-Rahîm. \n 4- Mâliki yevmi’d-dîn. \n 5- İyyâke na’budu ve iyyâke neste’în. \n 6- İhdine’s-sırâta’l-mustakîm. \n 7- Sırâta’l-lezîne en’amte aleyhim. \n Ğayri’l-meğdûbi aleyhim ve le’d-dâllîn.”",
-        "sure_anlami" : "1- “Rahmân ve Rahîm olan Allah’ın adıyla. \n 2- Hamd; Âlemlerin Rabbi olan Allah’a aittir. \n 3- (O Allah) Rahmân ve Rahîm’dir. \n 4- Din (ödül ve ceza) gününün sahibidir. \n 5- (Ey Allah’ım) Biz yalnızca Sana ibadet eder ve yalnızca Sen’den yardım dileriz. \n 6- Bizi dosdoğru yola ilet. \n 7- Kendilerine nimet verdiğin kimselerin yoluna ilet, gazaba uğrayanların ve sapıkların yoluna değil.”"
+		"sure_arapca" : "١﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ ﴿٢﴾ اَلرَّحْمٰنِ الرَّح۪يمِۙ ﴿٣﴾ مَالِكِ يَوْمِ الدّ۪ينِۜ ﴿٤﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُۜ ﴿٥﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَۙ ﴿٦﴾ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ ﴿٧",
+		"sure_okunusu" : "1- “Bismillâhi’r-Rahmâni’r-Rahîm. \n 2- Elhamdulillâhi Rabbi’l-âlemîn. \n 3- Er-Rahmâni’r-Rahîm. \n 4- Mâliki yevmi’d-dîn. \n 5- İyyâke na’budu ve iyyâke neste’în. \n 6- İhdine’s-sırâta’l-mustakîm. \n 7- Sırâta’l-lezîne en’amte aleyhim. \n Ğayri’l-meğdûbi aleyhim ve le’d-dâllîn.”",
+		"sure_anlami" : "1- “Rahmân ve Rahîm olan Allah’ın adıyla. \n 2- Hamd; Âlemlerin Rabbi olan Allah’a aittir. \n 3- (O Allah) Rahmân ve Rahîm’dir. \n 4- Din (ödül ve ceza) gününün sahibidir. \n 5- (Ey Allah’ım) Biz yalnızca Sana ibadet eder ve yalnızca Sen’den yardım dileriz. \n 6- Bizi dosdoğru yola ilet. \n 7- Kendilerine nimet verdiğin kimselerin yoluna ilet, gazaba uğrayanların ve sapıkların yoluna değil.”"
 	},
 	{
 		"sure_id" : "3",
@@ -23,9 +23,9 @@
 	{
 		"sure_id" : "4",
 		"sure_ismi" : "Kureyş Sûresi",
-        "sure_arapca" : "لِا۪يلَافِ قُرَيْشٍۙ ﴿١﴾ ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ ﴿٣﴾ اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ ﴿٤",
-        "sure_okunusu" : "Bismillâhi’r-Rahmâni’r-Rahîm. \n 1- Li îlâfi kurayş. \n 2- Îlâfihim rihlete’ş-şitâi ve’s-sayf. \n 3- Felya’budû Rabbe hâze’l-beyt. \n 4- Ellezî et’amehum min cû’in ve âmenehum min havf.",
-        "sure_anlami" : "Rahmân ve Rahîm olan Allah’ın adıyla. \n 1- “Kureyş’in emniyetini sağladığı, \n 2- Yaz ve kış yolculuğunda onları (güvenliğe ulaştırıp başkalarıyla) ısındırıp yakınlaştırdığı için onlar, \n 3- Bu evin (mabed’in, Kâbe’nin) Rabbine kulluk etsinler. \n 4- Ki O (Allah) kendilerini açlıktan (kurtarıp) doyuran ve her çeşit korkudan güvenliğe kavuşturandır."
+		"sure_arapca" : "لِا۪يلَافِ قُرَيْشٍۙ ﴿١﴾ ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ ﴿٣﴾ اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ ﴿٤",
+		"sure_okunusu" : "Bismillâhi’r-Rahmâni’r-Rahîm. \n 1- Li îlâfi kurayş. \n 2- Îlâfihim rihlete’ş-şitâi ve’s-sayf. \n 3- Felya’budû Rabbe hâze’l-beyt. \n 4- Ellezî et’amehum min cû’in ve âmenehum min havf.",
+		"sure_anlami" : "Rahmân ve Rahîm olan Allah’ın adıyla. \n 1- “Kureyş’in emniyetini sağladığı, \n 2- Yaz ve kış yolculuğunda onları (güvenliğe ulaştırıp başkalarıyla) ısındırıp yakınlaştırdığı için onlar, \n 3- Bu evin (mabed’in, Kâbe’nin) Rabbine kulluk etsinler. \n 4- Ki O (Allah) kendilerini açlıktan (kurtarıp) doyuran ve her çeşit korkudan güvenliğe kavuşturandır."
 	},
 	{
 		"sure_id" : "5",
